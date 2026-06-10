@@ -6,7 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/OutdoorsScene.unity
-    guid: 8124e5870f4fd4c779e7a5f994e84ad1
+    path: Assets/LoadingMenu.unity
+    guid: 64ab41d64488f644a87ca39d1fdb34d4
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 98f5a53bd6a8f844dba0d3fa1a5b62fe
+  - enabled: 1
+    path: Assets/kendisahnem.unity
+    guid: 15400cbde6b80a44e8eb25d723033347
+  - enabled: 1
+    path: Assets/BadEnding.unity
+    guid: 51a048e6c6a20e241b86e77cb77bd2b9
+  - enabled: 1
+    path: Assets/GoodEnding.unity
+    guid: c4b20aeaf406a71498ec36c988310af6
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 35845fe01580c41289b024647b1d1c53, type: 3}
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 6c20cb28c1ad3fb43b91f1aef6242ccd, type: 3}

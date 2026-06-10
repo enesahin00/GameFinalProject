@@ -3,15 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - CinemachineTarget
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
+  - inspectables
   - 
   - 
   - 
@@ -58,5 +59,4 @@ TagManager:
   - Decal Layer 5
   - Decal Layer 6
   - Decal Layer 7
-  m_MigratedRenderPipelines:
-  - UnityEngine.Rendering.HighDefinition.HDRenderPipeline
+  m_MigratedRenderPipelines: []
