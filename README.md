@@ -36,14 +36,14 @@ Your sanity is your only compass. Lose it, and the walls close in. Keep it, and 
 
 ## Assets Used
 
-| Asset | Purpose |
-|-------|---------|
-| [FPS Horror Kit](https://assetstore.unity.com/) | FPS controller, interaction system, sanity system, dialogue system, ghost silhouette |
-| Gabies Assets | Ghost / silhouette 3D model |
-| Pause Menu Assets | Pre-built pause menu UI |
-| Cinemachine 3.1.6 | Camera system |
-| TextMesh Pro | UI text rendering |
-| Unity HDRP | High-definition render pipeline, post-processing volumes |
+| Asset | Version | Usage |
+|-------|---------|-------|
+| **FPS Horror Game Starter Pack** | 1.0 | All core systems (FPS control, sanity, doors, dialogue, interaction, pieces, ghosts) |
+| **Open Source Pause Menu** | 1.0 | Pause menu, main menu, settings panels |
+| **Simple Keys** | 1.0.0 | In-game key objects and visuals |
+| **Cheval Mirror** | 1.0 | In-game mirror object and reflection mechanic |
+| **Footsteps – Essentials** | 1.3 | Walking, running, landing sound effects |
+| **Voices – Essentials** | 1.0 | Character voice, breathing, panic sounds |
 
 ## Tech Stack
 
