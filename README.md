@@ -38,12 +38,12 @@ Your sanity is your only compass. Lose it, and the walls close in. Keep it, and 
 
 | Asset | Version | Usage |
 |-------|---------|-------|
-| **FPS Horror Game Starter Pack** | 1.0 | All core systems (FPS control, sanity, doors, dialogue, interaction, pieces, ghosts) |
-| **Open Source Pause Menu** | 1.0 | Pause menu, main menu, settings panels |
-| **Simple Keys** | 1.0.0 | In-game key objects and visuals |
-| **Cheval Mirror** | 1.0 | In-game mirror object and reflection mechanic |
-| **Footsteps – Essentials** | 1.3 | Walking, running, landing sound effects |
-| **Voices – Essentials** | 1.0 | Character voice, breathing, panic sounds |
+| **FPS Horror Game Starter Pack** | https://assetstore.unity.com/packages/templates/packs/fps-horror-game-starter-pack-310075  | All core systems (FPS control, sanity, doors, dialogue, interaction, pieces, ghosts) |
+| **Open Source Pause Menu** | https://assetstore.unity.com/packages/tools/gui/open-source-pause-menu-59478| Pause menu, main menu, settings panels |
+| **Simple Keys** |https://assetstore.unity.com/packages/3d/props/tools/simple-keys-231162| In-game key objects and visuals |
+| **Cheval Mirror** | https://assetstore.unity.com/packages/3d/props/cheval-mirror-259424  | In-game mirror object and reflection mechanic |
+| **Footsteps – Essentials** | https://assetstore.unity.com/packages/audio/sound-fx/foley/footsteps-essentials-189879  | Walking, running, landing sound effects |
+| **Voices – Essentials** | https://assetstore.unity.com/packages/audio/sound-fx/voices/voices-essentials-214441 | Character voice, breathing, panic sounds |
 
 ## Tech Stack
 
@@ -80,14 +80,4 @@ Your sanity is your only compass. Lose it, and the walls close in. Keep it, and 
 | `Space` | Skip dialogue line |
 | `Escape` | Pause menu |
 
-## Screenshots
 
-*(Add screenshots here)*
-
-## Build
-
-Built for Windows (x64).
-
----
-
-Developed as a final game project.
