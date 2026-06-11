@@ -11,7 +11,7 @@ namespace FpsHorrorKit
         public static Action<int> OnPieceFound;
 
         [Header("Settings")]
-        [SerializeField] private int totalPieces = 12;
+        [SerializeField] private int totalPieces = 10;
 
         [Header("Notification UI")]
         [SerializeField] private CanvasGroup notificationGroup;
