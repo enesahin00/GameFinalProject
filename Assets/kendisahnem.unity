@@ -57697,7 +57697,7 @@ MonoBehaviour:
   sanityComparison: 1
   sanityThreshold: 70.1
   checkPieces: 1
-  requiredPieceCount: 1
+  requiredPieceCount: 10
   triggerOnce: 1
   onTrigger:
     m_PersistentCalls:
