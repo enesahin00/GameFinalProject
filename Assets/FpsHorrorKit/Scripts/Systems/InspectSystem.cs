@@ -116,7 +116,6 @@ namespace FpsHorrorKit
 
             if (countAsPiece && !_pieceRegistered)
             {
-                _pieceRegistered = true;
                 StartCoroutine(DelayedRegister());
             }
         }
@@ -124,6 +123,11 @@ namespace FpsHorrorKit
         private IEnumerator DelayedRegister()
         {
             yield return new WaitForSecondsRealtime(pieceRegisterDelay);
+            // Sadece kayıt gerçekten yapıldığında işaretle. Böylece bekleme
+            // sırasında parça tekrar incelenip coroutine iptal edilirse (Interact ->
+            // StopAllCoroutines) parça kalıcı kilitlenmez, sonraki incelemede tekrar denenir.
+            if (_pieceRegistered) yield break;
+            _pieceRegistered = true;
             PieceManager.Instance.RegisterPiece();
         }
 
